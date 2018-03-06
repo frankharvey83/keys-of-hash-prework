@@ -10,5 +10,4 @@ key_array = []
       end
     end
   end
-  key_array
 end
